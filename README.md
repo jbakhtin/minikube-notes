@@ -1,5 +1,8 @@
 # Заметки о работе с Minikube
 
+[Настройка Container Registry](container-registry/README.md)
+
+
 Полезные Юзкейсы:
 - Билд кастомного образа под свои задачи
   minikube image build -t <новый тег образа> <путь к Dockerfile>
