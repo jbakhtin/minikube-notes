@@ -1,6 +1,7 @@
 # Заметки о работе с Minikube
 
 [Настройка Container Registry](container-registry/README.md)
+[Установка Minikube](install/README.md)
 
 
 Полезные Юзкейсы:
